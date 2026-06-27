@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+    
       - '*Java-Projects-Collections/tree/main/Calculator-project'  # Only run when files in project-a change
 
 jobs:
